@@ -1,6 +1,6 @@
 name: I Search Marketing
 favicon: null
-layout_spectrum: 0.36383
+layout_spectrum: 1
 typography_spectrum: 0.38594
 title: 'I Search Marketing | Ethnic Marketing'
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6549192394595593
-  lightness: 0.4375
-  saturation: 0.375
-  rhythmicContrast: 0.6339375039096922
+    - '#544f56'
+    - '#74d6d7'
+    - '#4d8a8b'
+    - '#adc400'
+    - '#00b4de'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
