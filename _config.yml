@@ -1,6 +1,6 @@
 name: I Search Marketing
 favicon: null
-layout_spectrum: 0.3614151105284691
+layout_spectrum: 0.36383
 typography_spectrum: 0.19810044672340155
 title: 'I Search Marketing | Ethnic Marketing'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.6549192394595593
-  lightness: 0.03178791212849319
-  saturation: 0.2467369930818677
+  lightness: 0.4375
+  saturation: 0.375
   rhythmicContrast: 0.6339375039096922
 purpose: []
