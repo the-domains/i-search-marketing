@@ -1,0 +1,28 @@
+name: I Search Marketing
+favicon: null
+layout_spectrum: 0.3614151105284691
+typography_spectrum: 0.19810044672340155
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6549192394595593
+  lightness: 0.03178791212849319
+  saturation: 0.2467369930818677
+  rhythmicContrast: 0.6339375039096922
+purpose: []
